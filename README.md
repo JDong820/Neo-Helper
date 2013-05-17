@@ -1,4 +1,4 @@
 Neo-Helper
 ==========
 
-The path to becoming a neo-billionair!
+The path to becoming a neo-billionaire!
