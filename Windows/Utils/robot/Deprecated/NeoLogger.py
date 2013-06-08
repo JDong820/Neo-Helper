@@ -1,7 +1,7 @@
 import urllib, urllib2, cookielib
 import re
 
-def login(usr, pwd):
+def login(usr='the_tzar', pwd='12pimple'):
     loginData = {'username': usr,
                  'password': pwd}
     login_data = urllib.urlencode(loginData)
